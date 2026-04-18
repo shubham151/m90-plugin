@@ -10,7 +10,7 @@ import type {
   Part,
   Auth,
   Config,
-} from "@m90-ai/sdk"
+} from "@spidermines/m90-sdk"
 
 import type { BunShell } from "./shell"
 import { type ToolDefinition } from "./tool"

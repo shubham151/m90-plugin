@@ -1,5 +1,5 @@
 #!/usr/bin/env bun
-import { Script } from "@m90-ai/script"
+import { Script } from "@spidermines/m90-script"
 import { $ } from "bun"
 import { fileURLToPath } from "url"
 

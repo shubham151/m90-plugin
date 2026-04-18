@@ -1,6 +1,6 @@
 {
   "$schema": "https://json.schemastore.org/package.json",
-  "name": "@m90-ai/plugin",
+  "name": "@spidermines/m90-plugin",
   "version": "0.0.1",
   "author": "Shubham Mishra",
   "repository": {
@@ -25,7 +25,7 @@
     "dist"
   ],
   "dependencies": {
-    "@m90-ai/sdk": "0.0.1",
+    "@spidermines/m90-sdk": "0.0.1",
     "zod": "catalog:"
   },
   "devDependencies": {
