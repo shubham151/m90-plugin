@@ -6,7 +6,11 @@
     "module": "preserve",
     "declaration": true,
     "moduleResolution": "bundler",
-    "lib": ["es2022", "dom", "dom.iterable"]
+    "lib": ["es2022", "dom", "dom.iterable"],
+    "baseUrl": ".",
+    "paths": {
+      "@spidermines/m90-sdk": ["./node_modules/@spidermines/m90-sdk/dist/index.d.ts"]
+    }
   },
   "include": ["src"]
 }
